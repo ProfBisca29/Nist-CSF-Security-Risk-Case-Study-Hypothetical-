@@ -1,3 +1,6 @@
+Disclaimer:
+This project is a fictional case study created for educational and professional demonstration purposes only.
+
 Explanation: 
 This case study documents a sample cybersecurity risk assessment aligned with the NIST Cybersecurity Framework (CSF). The assessment was conducted on a hypothetical cloud-hosted SaaS application used to manage employee and customer information. No real organization or data was involved.
 
@@ -33,6 +36,3 @@ Centralized logging and security monitoring.
 Periodic vendor risk reviews.
 
 Documented incident response and recovery procedures.
-
-Disclaimer:
-This project is a fictional case study created for educational and professional demonstration purposes only.
