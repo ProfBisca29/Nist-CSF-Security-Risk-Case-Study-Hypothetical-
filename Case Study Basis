@@ -1,0 +1,38 @@
+Explanation: 
+This case study documents a sample cybersecurity risk assessment aligned with the NIST Cybersecurity Framework (CSF). The assessment was conducted on a hypothetical cloud-hosted SaaS application used to manage employee and customer information. No real organization or data was involved.
+
+Assessment Scope:
+The review focused on the application layer (user authentication and administrative access), data types (PII, user credentials, usage logs), identity and access management (RBAC, MFA), cloud infrastructure and data storage, logging and monitoring, incident response and recovery, and third-party vendor risk considerations.
+
+NIST CSF Function Mapping:
+
+Identify: Inventory of critical assets and data, classification of sensitive information, high-level risk identification based on impact and likelihood.
+
+Protect: Role-based access control (RBAC) and MFA, encryption at rest and in transit, security awareness considerations.
+
+Detect: Audit logging and activity monitoring, anomaly detection, and alerting.
+
+Respond: Incident response planning and communication, defined roles and responsibilities for response.
+
+Recover: Backup and restoration processes, business continuity, and post-incident review.
+
+Key Risks Identified:
+
+Unauthorized access due to misconfigured controls.
+
+Insufficient monitoring of third-party SaaS platforms.
+
+Limited incident response readiness.
+
+Mitigation Controls
+
+RBAC and MFA enforcement for privileged users.
+
+Centralized logging and security monitoring.
+
+Periodic vendor risk reviews.
+
+Documented incident response and recovery procedures.
+
+Disclaimer:
+This project is a fictional case study created for educational and professional demonstration purposes only.
